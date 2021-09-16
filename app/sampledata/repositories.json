@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "id": 393368078,
+      "name": "Android-Developer-Bootcamp",
+      "owner": {
+        "login": "Gian-f",
+        "avatar_url": "https://avatars.githubusercontent.com/u/61558415?v=4"
+      },
+      "stargazers_count": 1,
+      "language": "Kotlin",
+      "html_url": "https://github.com/Gian-f/Android-Developer-Bootcamp",
+      "description": "Bootcamp da Digital Inovation One de Android Developer em parceria com o banco Inter."
+    },
+    {
+      "id": 402155403,
+      "name": "BusinessCard",
+      "owner": {
+        "login": "Gian-f",
+        "avatar_url": "https://avatars.githubusercontent.com/u/61558415?v=4"
+      },
+      "html_url": "https://github.com/Gian-f/BusinessCard",
+      "description": "App de cartão de visitas criado durante o bootcamp Inter Android Developer da Digital Innovation One com parceira do Banco Inter.",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 394391763,
+      "name": "Calculadora-Notas",
+      "owner": {
+        "login": "Gian-f",
+        "avatar_url": "https://avatars.githubusercontent.com/u/61558415?v=4"
+      },
+      "html_url": "https://github.com/Gian-f/Calculadora-Notas",
+      "description": "App de cálculo de notas desenvolvido durante o bootcamp de Android Developer da Digital Innovation One em parceria com o banco Inter.",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 395746396,
+      "name": "Crud-with-Kotlin",
+      "owner": {
+        "login": "Gian-f",
+        "avatar_url": "https://avatars.githubusercontent.com/u/61558415?v=4"
+      },
+      "html_url": "https://github.com/Gian-f/Crud-with-Kotlin",
+      "description": "CRUD feito em Kotlin com SQLite durante o Bootcamp Inter Developer da Digital Innovation One!",
+      "stargazers_count": 0,
+      "language": "Kotlin"
+    },
+    {
+      "id": 61558415,
+      "name": "Gameplay-With-ReactNative",
+      "owner": {
+        "login": "Gian-f",
+        "avatar_url": "https://avatars.githubusercontent.com/u/61558415?v=4"
+      },
+      "html_url": "https://github.com/Gian-f/Gameplay-With-ReactNative",
+      "description": "App desenvolvido durante a maratona React Native na NLW da Rocketseat.",
+      "stargazers_count": 0,
+      "language": "React Native"
+    }
+  ]
+}
